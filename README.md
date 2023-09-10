@@ -43,8 +43,9 @@
 
 ![Fahad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hmfahad308&theme=redical)
 
-  
-![More Details](https://github-readme-stats.vercel.app/api/top-langs/?username=hmfahad308)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmfahad308&theme=redical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![More Details](https://metrics.lecoq.io/hmfahad308)
 
